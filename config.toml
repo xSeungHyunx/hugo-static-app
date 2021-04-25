@@ -8,7 +8,7 @@ theme = "hello-friend-ng"
 	homeSubtitle = "A community created streaming site"
 
 	# Show links to other posts
-	disableReadOtherPosts = false
+	disableReadOtherPosts = false	
 
 [languages]
   [languages.en]
@@ -47,13 +47,4 @@ theme = "hello-friend-ng"
     name       = "About Us"
     url        = "/about-us"
 
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
-  # A better internet.
-  # Uncomment this to enable Commento.
-  #
- [params.commento]
-   url = ""
+
